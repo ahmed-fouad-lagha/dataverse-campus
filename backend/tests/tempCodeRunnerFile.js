@@ -1,0 +1,1 @@
+const testEmail = `admin_${Date.now()}@example.com`;
